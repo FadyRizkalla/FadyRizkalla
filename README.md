@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-- 🧭 [Pathfinding Visualizer](https://github.com/FadyRizkalla/pathfinding-visualizer)  
+- 🧭 [Pathfinding Visualizer](https://github.com/FadyRizkalla/pathfinding)  
   Visualizes DFS, BFS, and recursive maze generation in real-time using vanilla JavaScript.
 
 - 🛡️ [Tower Defense Game](https://github.com/FadyRizkalla/tower-defense-game)  
