@@ -9,11 +9,11 @@
 
 ## 🚀 Projects
 
-- 🧭 [Pathfinding Visualizer](https://github.com/fadigamal57/pathfinding-visualizer)  
-  Visualizes DFS, BFS, and recursive maze generation in real-time using pure JavaScript.
+- 🧭 [Pathfinding Visualizer](https://github.com/FadyRizkalla/pathfinding-visualizer)  
+  Visualizes DFS, BFS, and recursive maze generation in real-time using vanilla JavaScript.
 
-- 🛡️ [Tower Defense Game](https://github.com/your-username/tower-defense-game) *(Completed)*  
-  A C++ SFML game featuring tower placement, enemy waves, pathfinding, and UI. Focuses on real-time strategy mechanics and object-oriented design.
+- 🛡️ [Tower Defense Game](https://github.com/FadyRizkalla/tower-defense-game)  
+  A complete Tower Defense game built in C++ using SFML. Features enemy waves, tower placement, real-time strategy, and clean object-oriented design.
 
 ---
 
@@ -27,18 +27,36 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-`C++` `Python` `JavaScript` `Node.js` `React (learning)`  
-`Git` `VS Code` `SFML` `LaTeX` `HTML/CSS`  
+**Languages:**  
+`C++` `Python` `JavaScript` `Java` `HTML` `CSS` `LaTeX` `SQL`
+
+**Web Development:**  
+`Node.js` `Express.js` `EJS` `React (learning)` `Bootstrap` `GitHub Pages`
+
+**Game Development:**  
+`SFML` `Unreal Engine (basic)` `OpenGL (basic)` `Game Loop Programming`
+
+**CS & Algorithms:**  
+`Data Structures` `Algorithms` `Object-Oriented Programming (OOP)`  
+`Graph Algorithms` `Recursion` `Greedy Algorithms` `Backtracking` `Dynamic Programming`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `VS Code` `G++ / GDB` `Linux / WSL` `Bash` `Makefiles`  
+`Postman` `MongoDB (learning)` `Firebase (basic)` `Vercel` `Figma`
+
+**Libraries & Frameworks:**  
+`Pandas` `NumPy` `Matplotlib` (for data analysis and visualization in Python)
+
 
 ---
 
 ## 📫 Connect with Me
 
 - [📍 LinkedIn](https://www.linkedin.com/in/fady-rizkalla-620bb9292/)
-- [📺 YouTube Demo](https://youtu.be/d0BtZuR7I1g)
-- [📁 GitHub Projects](https://github.com/fadigamal57)
+- [📺 YouTube Demo (Pathfinding)](https://youtu.be/d0BtZuR7I1g)
+- [📁 My GitHub](https://github.com/FadyRizkalla)
 
 ---
 
