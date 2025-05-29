@@ -12,7 +12,7 @@
 - 🧭 [Pathfinding Visualizer](https://github.com/FadyRizkalla/pathfinding)  
   Visualizes DFS, BFS, and recursive maze generation in real-time using vanilla JavaScript.
 
-- 🛡️ [Tower Defense Game](https://github.com/FadyRizkalla/tower-defense-game)  
+- 🛡️ [Tower Defense Game](https://github.com/FadyRizkalla/Comp345_Groupe_project)  
   A complete Tower Defense game built in C++ using SFML. Features enemy waves, tower placement, real-time strategy, and clean object-oriented design.
 
 ---
